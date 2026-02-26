@@ -1,4 +1,5 @@
   export default function loadHome(){
+    
     const content = document.getElementById("content");
 
     const heading = document.createElement("h1");
