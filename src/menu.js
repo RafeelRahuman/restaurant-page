@@ -11,7 +11,8 @@ export default function loadMenu(){
     const items = [
         "🍕 Pizza - ₹300",
         "🍔 Burger - ₹200",
-        "🍛 Curry Rice - ₹1000"
+        "🍛 Curry Rice - ₹1000",
+        "🍨 Ice Cream - ₹100"
     ]
 
     const list = document.createElement("ul");
